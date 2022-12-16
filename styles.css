@@ -1,0 +1,24 @@
+button {
+    display: inline-block
+}
+#reset {
+    margin-left: 215px;
+}
+#container {
+    width: 608px;
+}
+
+#color-palette, #my-palette {
+    display: inline-block;
+    width: 280px;
+    height: 475px;
+    overflow: hidden;
+    border: 1px solid blue;
+}
+
+.square{
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+}
